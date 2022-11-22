@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"tescases.com","l":"ALL_CODE"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Com.AngolaZone.Lib","l":"General"},{"p":"Com.AngolaZone.Lib","l":"Global"}];updateSearchResults();
